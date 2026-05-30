@@ -1,330 +1,0 @@
-Dependencies for Project 'RTES_Project', Target 'Target_1': (DO NOT MODIFY !)
-CompilerVersion: 6240000::V6.24::ARMCLANG
-F (.\main.c)(0x69F23E65)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/main.o -MMD)
-I (bsp.h)(0x69B19C8D)
-I (display.h)(0x69B06FC2)
-I (gpio.h)(0x69B70075)
-I (ledbtn.h)(0x69B06CE9)
-I (microbit.h)(0x69B70415)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-I (printf.h)(0x69B19C28)
-I (uart.h)(0x69F0D18A)
-I (radio.h)(0x69B718C7)
-F (.\gpio.h)(0x69B70075)()
-F (.\gpio.c)(0x69B7008F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/gpio.o -MMD)
-I (gpio.h)(0x69B70075)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-F (.\ledbtn.h)(0x69B06CE9)()
-F (.\ledbtn.c)(0x69B6FED7)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/ledbtn.o -MMD)
-I (microbit.h)(0x69B70415)
-I (ledbtn.h)(0x69B06CE9)
-I (gpio.h)(0x69B70075)
-F (.\microbit.h)(0x69B70415)()
-F (.\nrf52833.h)(0x69B06E18)()
-F (.\nrf52833_bitfields.h)(0x69B06E3A)()
-F (.\display.c)(0x69B06FCB)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/display.o -MMD)
-I (bsp.h)(0x69B19C8D)
-I (display.h)(0x69B06FC2)
-I (gpio.h)(0x69B70075)
-I (ledbtn.h)(0x69B06CE9)
-I (microbit.h)(0x69B70415)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-I (printf.h)(0x69B19C28)
-I (uart.h)(0x69F0D18A)
-I (radio.h)(0x69B718C7)
-F (.\display.h)(0x69B06FC2)()
-F (.\bsp.h)(0x69B19C8D)()
-F (.\motor.h)(0x69B07170)()
-F (.\motor.c)(0x69B0718E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/motor.o -MMD)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-I (motor.h)(0x69B07170)
-F (.\pins.h)(0x69B07203)()
-F (.\servo.h)(0x69B085FC)()
-F (.\servo.c)(0x69B1DD4A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/servo.o -MMD)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-I (servo.h)(0x69B085FC)
-F (.\ultrasonic.h)(0x69B092FE)()
-F (.\ultrasonic.c)(0x69B0932D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/ultrasonic.o -MMD)
-I (gpio.h)(0x69B70075)
-I (ultrasonic.h)(0x69B092FE)
-F (.\radio.h)(0x69B718C7)()
-F (.\radio.c)(0x69F0FDDB)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/radio.o -MMD)
-I (radio.h)(0x69B718C7)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-F (.\uart.h)(0x69F0D18A)()
-F (.\uart.c)(0x69F0D1CD)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/uart.o -MMD)
-I (nrf52833.h)(0x69B06E18)
-I (nrf52833_bitfields.h)(0x69B06E3A)
-F (.\printf.c)(0x69B19BEE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/printf.o -MMD)
-I (printf.h)(0x69B19C28)
-F (.\printf.h)(0x69B19C28)()
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Source/clib_os.c)(0x696699C0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/clib_os.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\semphr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\queue.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Source/cmsis_os2.c)(0x696699C0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/cmsis_os2.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x696699EE)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\cmsis_compiler.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\cmsis_armclang.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\RTOS2\Include\os_tick.h)(0x696699EE)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\event_groups.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\timers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\semphr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\queue.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_mpool.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_os2.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Source/os_systick.c)(0x696699EE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/os_systick.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\RTOS2\Include\os_tick.h)(0x696699EE)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-F (RTE/Device/nRF52833_xxAA/arm_startup_nrf52833.s)(0x6899D81E)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"NRF52833_XXAA SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/arm_startup_nrf52833.o)
-F (RTE/Device/nRF52833_xxAA/system_nrf52.c)(0x6899D81E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/system_nrf52.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf_peripherals.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_peripherals.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_erratas.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52_approtect.h)(0x6899D81E)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Source/freertos_evr.c)(0x696699C0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/freertos_evr.o -MMD)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/event_groups.c)(0x696699C0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/event_groups.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\timers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\event_groups.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/list.c)(0x696699C0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/list.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F/port.c)(0x696699C1)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/port.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/MemMang/heap_4.c)(0x696699C2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/heap_4.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/queue.c)(0x696699C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/queue.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\queue.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/stream_buffer.c)(0x696699C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/stream_buffer.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\stream_buffer.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/tasks.c)(0x696699C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/tasks.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\timers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\stack_macros.h)(0x696699C0)
-F (D:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/timers.c)(0x696699C3)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/RTOS-I./RTE/_Target_1-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/CMSIS/RTOS2/FreeRTOS/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS-FreeRTOS/11.2.0/Source/portable/GCC/ARM_CM4F-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/Core/Include-ID:/KeiluVision_LatestVersion/Pack/ARM/CMSIS/6.3.0/CMSIS/RTOS2/Include-ID:/KeiluVision_LatestVersion/Pack/NordicSemiconductor/nRF_DeviceFamilyPack/8.44.1/Device/Include-D__UVISION_VERSION="543" -DNRF52833_XXAA -D_RTE_-o ./objects/timers.o -MMD)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\FreeRTOS.h)(0x696699C0)
-I (RTE\RTOS\FreeRTOSConfig.h)(0x696699BF)
-I (RTE\_Target_1\RTE_Components.h)(0x69B068B5)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x696699E6)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\system_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52833_bitfields.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf52_to_nrf52833.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\nrf51_to_nrf52.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\NordicSemiconductor\nRF_DeviceFamilyPack\8.44.1\Device\Include\compiler_abstraction.h)(0x6899D81E)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\projdefs.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\portable.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\deprecated_definitions.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x696699C1)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\mpu_wrappers.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\task.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\list.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\queue.h)(0x696699C0)
-I (D:\KeiluVision_LatestVersion\Pack\ARM\CMSIS-FreeRTOS\11.2.0\Source\include\timers.h)(0x696699C0)
-F (RTE/RTOS/FreeRTOSConfig.h)(0x696699BF)()
