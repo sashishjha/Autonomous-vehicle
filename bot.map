@@ -1,0 +1,794 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                              build/bot/printf.o (__aeabi_dmul)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                              build/bot/printf.o (__aeabi_dadd)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                              build/bot/printf.o (__aeabi_d2iz)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                              build/bot/printf.o (__aeabi_d2f)
+
+Discarded input sections
+
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .group         0x00000000        0xc build/bot/main.o
+ .text          0x00000000        0x0 build/bot/main.o
+ .data          0x00000000        0x0 build/bot/main.o
+ .bss           0x00000000        0x0 build/bot/main.o
+ .text.delay_ms
+                0x00000000        0x4 build/bot/main.o
+ .text.iabs_int
+                0x00000000        0x8 build/bot/main.o
+ .text.cm_to_ticks
+                0x00000000       0x24 build/bot/main.o
+ .text.send_done
+                0x00000000       0x2c build/bot/main.o
+ .text.send_ack
+                0x00000000       0x2c build/bot/main.o
+ .text.update_motion
+                0x00000000       0x10 build/bot/main.o
+ .comment       0x00000000       0x46 build/bot/main.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .group         0x00000000        0xc build/bot/uart.o
+ .text          0x00000000        0x0 build/bot/uart.o
+ .data          0x00000000        0x0 build/bot/uart.o
+ .bss           0x00000000        0x0 build/bot/uart.o
+ .text.uart_init
+                0x00000000       0x3c build/bot/uart.o
+ .text.uart_putc
+                0x00000000       0x1c build/bot/uart.o
+ .text.uart_puts
+                0x00000000       0x28 build/bot/uart.o
+ .text.uart_read_ready
+                0x00000000        0xc build/bot/uart.o
+ .text.uart_read_char
+                0x00000000       0x14 build/bot/uart.o
+ .debug_info    0x00000000      0x4bf build/bot/uart.o
+ .debug_abbrev  0x00000000      0x1d3 build/bot/uart.o
+ .debug_loclists
+                0x00000000       0x8f build/bot/uart.o
+ .debug_aranges
+                0x00000000       0x40 build/bot/uart.o
+ .debug_rnglists
+                0x00000000       0x37 build/bot/uart.o
+ .debug_macro   0x00000000       0x76 build/bot/uart.o
+ .debug_macro   0x00000000      0xaf0 build/bot/uart.o
+ .debug_macro   0x00000000       0x22 build/bot/uart.o
+ .debug_macro   0x00000000       0x8e build/bot/uart.o
+ .debug_macro   0x00000000       0x51 build/bot/uart.o
+ .debug_macro   0x00000000      0x103 build/bot/uart.o
+ .debug_macro   0x00000000       0x6a build/bot/uart.o
+ .debug_macro   0x00000000      0x1df build/bot/uart.o
+ .debug_macro   0x00000000      0x447 build/bot/uart.o
+ .debug_macro   0x00000000    0x108e0 build/bot/uart.o
+ .debug_line    0x00000000      0x349 build/bot/uart.o
+ .debug_str     0x00000000    0x697f8 build/bot/uart.o
+ .comment       0x00000000       0x46 build/bot/uart.o
+ .debug_frame   0x00000000       0x68 build/bot/uart.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/uart.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .group         0x00000000        0xc build/bot/radio.o
+ .text          0x00000000        0x0 build/bot/radio.o
+ .data          0x00000000        0x0 build/bot/radio.o
+ .bss           0x00000000        0x0 build/bot/radio.o
+ .text.radio_tx_radar
+                0x00000000       0x9c build/bot/radio.o
+ .debug_macro   0x00000000      0xaf0 build/bot/radio.o
+ .debug_macro   0x00000000       0x22 build/bot/radio.o
+ .debug_macro   0x00000000       0x8e build/bot/radio.o
+ .debug_macro   0x00000000       0x51 build/bot/radio.o
+ .debug_macro   0x00000000      0x103 build/bot/radio.o
+ .debug_macro   0x00000000       0x6a build/bot/radio.o
+ .debug_macro   0x00000000      0x1df build/bot/radio.o
+ .debug_macro   0x00000000      0x447 build/bot/radio.o
+ .debug_macro   0x00000000    0x108e0 build/bot/radio.o
+ .comment       0x00000000       0x46 build/bot/radio.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .group         0x00000000        0xc build/bot/motor.o
+ .text          0x00000000        0x0 build/bot/motor.o
+ .data          0x00000000        0x0 build/bot/motor.o
+ .bss           0x00000000        0x0 build/bot/motor.o
+ .debug_macro   0x00000000      0xaf0 build/bot/motor.o
+ .debug_macro   0x00000000       0x22 build/bot/motor.o
+ .debug_macro   0x00000000       0x8e build/bot/motor.o
+ .debug_macro   0x00000000       0x51 build/bot/motor.o
+ .debug_macro   0x00000000      0x103 build/bot/motor.o
+ .debug_macro   0x00000000       0x6a build/bot/motor.o
+ .debug_macro   0x00000000      0x1df build/bot/motor.o
+ .debug_macro   0x00000000      0x447 build/bot/motor.o
+ .debug_macro   0x00000000    0x108e0 build/bot/motor.o
+ .comment       0x00000000       0x46 build/bot/motor.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/gpio.o
+ .text          0x00000000        0x0 build/bot/gpio.o
+ .data          0x00000000        0x0 build/bot/gpio.o
+ .bss           0x00000000        0x0 build/bot/gpio.o
+ .text.gpio_init
+                0x00000000        0x4 build/bot/gpio.o
+ .text.gpio_write
+                0x00000000       0x28 build/bot/gpio.o
+ .debug_macro   0x00000000      0xaf0 build/bot/gpio.o
+ .debug_macro   0x00000000       0x22 build/bot/gpio.o
+ .debug_macro   0x00000000       0x8e build/bot/gpio.o
+ .debug_macro   0x00000000       0x51 build/bot/gpio.o
+ .debug_macro   0x00000000      0x103 build/bot/gpio.o
+ .debug_macro   0x00000000       0x6a build/bot/gpio.o
+ .debug_macro   0x00000000      0x1df build/bot/gpio.o
+ .debug_macro   0x00000000    0x108e0 build/bot/gpio.o
+ .comment       0x00000000       0x46 build/bot/gpio.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .group         0x00000000        0xc build/bot/servo.o
+ .text          0x00000000        0x0 build/bot/servo.o
+ .data          0x00000000        0x0 build/bot/servo.o
+ .bss           0x00000000        0x0 build/bot/servo.o
+ .text.servo_init
+                0x00000000       0x34 build/bot/servo.o
+ .text.servo_set_angle
+                0x00000000       0x7c build/bot/servo.o
+ .bss.countertop
+                0x00000000        0x4 build/bot/servo.o
+ .bss.seq       0x00000000        0x2 build/bot/servo.o
+ .debug_info    0x00000000      0x43d build/bot/servo.o
+ .debug_abbrev  0x00000000      0x16b build/bot/servo.o
+ .debug_loclists
+                0x00000000      0x2a7 build/bot/servo.o
+ .debug_aranges
+                0x00000000       0x28 build/bot/servo.o
+ .debug_rnglists
+                0x00000000       0x19 build/bot/servo.o
+ .debug_macro   0x00000000       0x9e build/bot/servo.o
+ .debug_macro   0x00000000      0xaf0 build/bot/servo.o
+ .debug_macro   0x00000000       0x22 build/bot/servo.o
+ .debug_macro   0x00000000       0x8e build/bot/servo.o
+ .debug_macro   0x00000000       0x51 build/bot/servo.o
+ .debug_macro   0x00000000      0x103 build/bot/servo.o
+ .debug_macro   0x00000000       0x6a build/bot/servo.o
+ .debug_macro   0x00000000      0x1df build/bot/servo.o
+ .debug_macro   0x00000000      0x447 build/bot/servo.o
+ .debug_macro   0x00000000    0x108e0 build/bot/servo.o
+ .debug_line    0x00000000      0x2fa build/bot/servo.o
+ .debug_str     0x00000000    0x6982c build/bot/servo.o
+ .comment       0x00000000       0x46 build/bot/servo.o
+ .debug_frame   0x00000000       0x3c build/bot/servo.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/servo.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .group         0x00000000        0xc build/bot/display.o
+ .text          0x00000000        0x0 build/bot/display.o
+ .data          0x00000000        0x0 build/bot/display.o
+ .bss           0x00000000        0x0 build/bot/display.o
+ .text.scroll_left
+                0x00000000       0x34 build/bot/display.o
+ .text.scroll_right
+                0x00000000       0x34 build/bot/display.o
+ .text.display  0x00000000       0x3c build/bot/display.o
+ .text.display_row_refresh
+                0x00000000       0x88 build/bot/display.o
+ .bss.row.0     0x00000000        0x1 build/bot/display.o
+ .rodata.col_pins
+                0x00000000       0x14 build/bot/display.o
+ .rodata.row_pins
+                0x00000000       0x14 build/bot/display.o
+ .bss.framebuffer
+                0x00000000       0x19 build/bot/display.o
+ .debug_info    0x00000000      0x2fc build/bot/display.o
+ .debug_abbrev  0x00000000      0x166 build/bot/display.o
+ .debug_loclists
+                0x00000000      0x128 build/bot/display.o
+ .debug_aranges
+                0x00000000       0x38 build/bot/display.o
+ .debug_rnglists
+                0x00000000       0x92 build/bot/display.o
+ .debug_macro   0x00000000       0xc5 build/bot/display.o
+ .debug_macro   0x00000000      0xaf0 build/bot/display.o
+ .debug_macro   0x00000000       0x22 build/bot/display.o
+ .debug_macro   0x00000000       0x8e build/bot/display.o
+ .debug_macro   0x00000000       0x51 build/bot/display.o
+ .debug_macro   0x00000000      0x103 build/bot/display.o
+ .debug_macro   0x00000000       0x6a build/bot/display.o
+ .debug_macro   0x00000000      0x1df build/bot/display.o
+ .debug_macro   0x00000000      0x172 build/bot/display.o
+ .debug_macro   0x00000000      0x447 build/bot/display.o
+ .debug_macro   0x00000000    0x108e0 build/bot/display.o
+ .debug_line    0x00000000      0x46b build/bot/display.o
+ .debug_str     0x00000000    0x69918 build/bot/display.o
+ .comment       0x00000000       0x46 build/bot/display.o
+ .debug_frame   0x00000000       0x80 build/bot/display.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/display.o
+ .group         0x00000000        0xc build/bot/ultrasonic.o
+ .text          0x00000000        0x0 build/bot/ultrasonic.o
+ .data          0x00000000        0x0 build/bot/ultrasonic.o
+ .bss           0x00000000        0x0 build/bot/ultrasonic.o
+ .text.ultrasonic_init
+                0x00000000       0x30 build/bot/ultrasonic.o
+ .text.ultrasonic_read_cm
+                0x00000000       0x6c build/bot/ultrasonic.o
+ .bss.echo      0x00000000        0x4 build/bot/ultrasonic.o
+ .bss.trig      0x00000000        0x4 build/bot/ultrasonic.o
+ .debug_info    0x00000000      0x214 build/bot/ultrasonic.o
+ .debug_abbrev  0x00000000      0x18c build/bot/ultrasonic.o
+ .debug_loclists
+                0x00000000       0x8e build/bot/ultrasonic.o
+ .debug_aranges
+                0x00000000       0x28 build/bot/ultrasonic.o
+ .debug_rnglists
+                0x00000000       0x19 build/bot/ultrasonic.o
+ .debug_macro   0x00000000       0x25 build/bot/ultrasonic.o
+ .debug_macro   0x00000000      0xaf0 build/bot/ultrasonic.o
+ .debug_line    0x00000000      0x11c build/bot/ultrasonic.o
+ .debug_str     0x00000000     0x2fa2 build/bot/ultrasonic.o
+ .comment       0x00000000       0x46 build/bot/ultrasonic.o
+ .debug_frame   0x00000000       0x50 build/bot/ultrasonic.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/ultrasonic.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .group         0x00000000        0xc build/bot/printf.o
+ .text          0x00000000        0x0 build/bot/printf.o
+ .data          0x00000000        0x0 build/bot/printf.o
+ .bss           0x00000000        0x0 build/bot/printf.o
+ .text.print_uint
+                0x00000000       0x4c build/bot/printf.o
+ .text.puts     0x00000000       0x20 build/bot/printf.o
+ .text.printf   0x00000000      0x168 build/bot/printf.o
+ .debug_info    0x00000000      0x6a2 build/bot/printf.o
+ .debug_abbrev  0x00000000      0x234 build/bot/printf.o
+ .debug_loclists
+                0x00000000      0x365 build/bot/printf.o
+ .debug_aranges
+                0x00000000       0x30 build/bot/printf.o
+ .debug_rnglists
+                0x00000000       0xa1 build/bot/printf.o
+ .debug_macro   0x00000000       0x76 build/bot/printf.o
+ .debug_macro   0x00000000      0xaf0 build/bot/printf.o
+ .debug_macro   0x00000000       0x5f build/bot/printf.o
+ .debug_macro   0x00000000       0x22 build/bot/printf.o
+ .debug_macro   0x00000000       0x8e build/bot/printf.o
+ .debug_macro   0x00000000       0x51 build/bot/printf.o
+ .debug_macro   0x00000000      0x103 build/bot/printf.o
+ .debug_macro   0x00000000       0x6a build/bot/printf.o
+ .debug_macro   0x00000000      0x1df build/bot/printf.o
+ .debug_line    0x00000000      0x548 build/bot/printf.o
+ .debug_str     0x00000000     0x4029 build/bot/printf.o
+ .comment       0x00000000       0x46 build/bot/printf.o
+ .debug_frame   0x00000000       0xa0 build/bot/printf.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/printf.o
+ .group         0x00000000        0xc build/bot/ledbtn.o
+ .group         0x00000000        0xc build/bot/ledbtn.o
+ .text          0x00000000        0x0 build/bot/ledbtn.o
+ .data          0x00000000        0x0 build/bot/ledbtn.o
+ .bss           0x00000000        0x0 build/bot/ledbtn.o
+ .text.led_init
+                0x00000000       0x48 build/bot/ledbtn.o
+ .text.led_on   0x00000000       0x28 build/bot/ledbtn.o
+ .text.led_off  0x00000000       0x2c build/bot/ledbtn.o
+ .text.button_init
+                0x00000000       0x18 build/bot/ledbtn.o
+ .text.button_read
+                0x00000000       0x18 build/bot/ledbtn.o
+ .rodata.button_pins
+                0x00000000        0x8 build/bot/ledbtn.o
+ .rodata.col_pins
+                0x00000000       0x14 build/bot/ledbtn.o
+ .rodata.row_pins
+                0x00000000       0x14 build/bot/ledbtn.o
+ .debug_info    0x00000000      0x367 build/bot/ledbtn.o
+ .debug_abbrev  0x00000000      0x18c build/bot/ledbtn.o
+ .debug_loclists
+                0x00000000       0xd4 build/bot/ledbtn.o
+ .debug_aranges
+                0x00000000       0x40 build/bot/ledbtn.o
+ .debug_rnglists
+                0x00000000       0x46 build/bot/ledbtn.o
+ .debug_macro   0x00000000       0x2e build/bot/ledbtn.o
+ .debug_macro   0x00000000      0xaf0 build/bot/ledbtn.o
+ .debug_macro   0x00000000      0x172 build/bot/ledbtn.o
+ .debug_line    0x00000000      0x16f build/bot/ledbtn.o
+ .debug_str     0x00000000     0x31bf build/bot/ledbtn.o
+ .comment       0x00000000       0x46 build/bot/ledbtn.o
+ .debug_frame   0x00000000       0x98 build/bot/ledbtn.o
+ .ARM.attributes
+                0x00000000       0x34 build/bot/ledbtn.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/startup_gcc_nrf52833.o
+ .text          0x00000000        0x0 build/bot/startup_gcc_nrf52833.o
+ .data          0x00000000        0x0 build/bot/startup_gcc_nrf52833.o
+ .bss           0x00000000        0x0 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0xaf0 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x22 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x8e build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x51 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x103 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x6a build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x1df build/bot/startup_gcc_nrf52833.o
+ .comment       0x00000000       0x46 build/bot/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/bot/runtime.o
+ .group         0x00000000        0xc build/bot/runtime.o
+ .text          0x00000000        0x0 build/bot/runtime.o
+ .data          0x00000000        0x0 build/bot/runtime.o
+ .bss           0x00000000        0x0 build/bot/runtime.o
+ .text.memset   0x00000000       0x10 build/bot/runtime.o
+ .debug_macro   0x00000000      0xaf0 build/bot/runtime.o
+ .debug_macro   0x00000000      0x1a5 build/bot/runtime.o
+ .comment       0x00000000       0x46 build/bot/runtime.o
+ .text          0x00000000      0x254 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000       0x30 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .text          0x00000000      0x378 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000       0x50 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0xa0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00080000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/bot/main.o
+LOAD build/bot/uart.o
+LOAD build/bot/radio.o
+LOAD build/bot/motor.o
+LOAD build/bot/gpio.o
+LOAD build/bot/servo.o
+LOAD build/bot/display.o
+LOAD build/bot/ultrasonic.o
+LOAD build/bot/printf.o
+LOAD build/bot/ledbtn.o
+LOAD build/bot/startup_gcc_nrf52833.o
+LOAD build/bot/runtime.o
+LOAD /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x00000000      0x100
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x100 build/bot/startup_gcc_nrf52833.o
+                0x00000000                vector_table
+
+.text           0x00000100      0x6bc
+ *(.text*)
+ .text.update_motion.part.0
+                0x00000100       0x88 build/bot/main.o
+ .text.encoder1_callback
+                0x00000188       0x20 build/bot/main.o
+                0x00000188                encoder1_callback
+ .text.encoder2_callback
+                0x000001a8       0x20 build/bot/main.o
+                0x000001a8                encoder2_callback
+ .text.start_motion
+                0x000001c8      0x114 build/bot/main.o
+                0x000001c8                start_motion
+ .text.startup.main
+                0x000002dc       0xb0 build/bot/main.o
+                0x000002dc                main
+ .text.radio_hfclk_start
+                0x0000038c       0x18 build/bot/radio.o
+                0x0000038c                radio_hfclk_start
+ .text.radio_init
+                0x000003a4       0x70 build/bot/radio.o
+                0x000003a4                radio_init
+ .text.radio_tx_map
+                0x00000414       0x90 build/bot/radio.o
+                0x00000414                radio_tx_map
+ .text.radio_start_rx_radar
+                0x000004a4       0x34 build/bot/radio.o
+                0x000004a4                radio_start_rx_radar
+ .text.radio_update_radar
+                0x000004d8       0x3c build/bot/radio.o
+                0x000004d8                radio_update_radar
+ .text.radio_is_ready_radar
+                0x00000514        0xc build/bot/radio.o
+                0x00000514                radio_is_ready_radar
+ .text.radio_poll_map
+                0x00000520       0x1c build/bot/radio.o
+                0x00000520                radio_poll_map
+ .text.motor_init
+                0x0000053c       0x40 build/bot/motor.o
+                0x0000053c                motor_init
+ .text.motor_on
+                0x0000057c       0xc4 build/bot/motor.o
+                0x0000057c                motor_on
+ .text.motor_off
+                0x00000640       0x28 build/bot/motor.o
+                0x00000640                motor_off
+ .text.gpio_config
+                0x00000668       0x24 build/bot/gpio.o
+                0x00000668                gpio_config
+ .text.gpio_read
+                0x0000068c       0x20 build/bot/gpio.o
+                0x0000068c                gpio_read
+ .text.gpio_inten
+                0x000006ac       0x40 build/bot/gpio.o
+                0x000006ac                gpio_inten
+ .text.GPIOTE_IRQHandler
+                0x000006ec       0x54 build/bot/gpio.o
+                0x000006ec                GPIOTE_IRQHandler
+ .text.Default_Handler
+                0x00000740        0x4 build/bot/startup_gcc_nrf52833.o
+                0x00000740                COMP_LPCOMP_IRQHandler
+                0x00000740                DebugMon_Handler
+                0x00000740                RTC0_IRQHandler
+                0x00000740                SWI0_EGU0_IRQHandler
+                0x00000740                HardFault_Handler
+                0x00000740                SWI2_EGU2_IRQHandler
+                0x00000740                SysTick_Handler
+                0x00000740                PWM1_IRQHandler
+                0x00000740                PendSV_Handler
+                0x00000740                NMI_Handler
+                0x00000740                POWER_CLOCK_IRQHandler
+                0x00000740                RADIO_IRQHandler
+                0x00000740                PDM_IRQHandler
+                0x00000740                TEMP_IRQHandler
+                0x00000740                QDEC_IRQHandler
+                0x00000740                TIMER3_IRQHandler
+                0x00000740                PWM3_IRQHandler
+                0x00000740                FPU_IRQHandler
+                0x00000740                USBD_IRQHandler
+                0x00000740                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x00000740                UsageFault_Handler
+                0x00000740                UARTE0_UART0_IRQHandler
+                0x00000740                TIMER4_IRQHandler
+                0x00000740                I2S_IRQHandler
+                0x00000740                SWI4_EGU4_IRQHandler
+                0x00000740                TIMER0_IRQHandler
+                0x00000740                UARTE1_IRQHandler
+                0x00000740                TIMER1_IRQHandler
+                0x00000740                SPIM3_IRQHandler
+                0x00000740                PWM2_IRQHandler
+                0x00000740                ECB_IRQHandler
+                0x00000740                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x00000740                Default_Handler
+                0x00000740                SAADC_IRQHandler
+                0x00000740                CCM_AAR_IRQHandler
+                0x00000740                WDT_IRQHandler
+                0x00000740                SVC_Handler
+                0x00000740                SWI5_EGU5_IRQHandler
+                0x00000740                RNG_IRQHandler
+                0x00000740                RTC2_IRQHandler
+                0x00000740                PWM0_IRQHandler
+                0x00000740                SWI3_EGU3_IRQHandler
+                0x00000740                RTC1_IRQHandler
+                0x00000740                SWI1_EGU1_IRQHandler
+                0x00000740                SPIM2_SPIS2_SPI2_IRQHandler
+                0x00000740                NFCT_IRQHandler
+                0x00000740                BusFault_Handler
+                0x00000740                MWU_IRQHandler
+                0x00000740                MemoryManagement_Handler
+                0x00000740                TIMER2_IRQHandler
+ .text.SystemInit
+                0x00000744        0x4 build/bot/startup_gcc_nrf52833.o
+                0x00000744                SystemInit
+ .text.Reset_Handler
+                0x00000748       0x60 build/bot/startup_gcc_nrf52833.o
+                0x00000748                Reset_Handler
+ .text.memcpy   0x000007a8       0x14 build/bot/runtime.o
+                0x000007a8                memcpy
+ *(.rodata*)
+ *(.init)
+ *(.fini)
+                0x000007bc                        . = ALIGN (0x4)
+
+.glue_7         0x000007bc        0x0
+ .glue_7        0x000007bc        0x0 linker stubs
+
+.glue_7t        0x000007bc        0x0
+ .glue_7t       0x000007bc        0x0 linker stubs
+
+.vfp11_veneer   0x000007bc        0x0
+ .vfp11_veneer  0x000007bc        0x0 linker stubs
+
+.v4_bx          0x000007bc        0x0
+ .v4_bx         0x000007bc        0x0 linker stubs
+
+.iplt           0x000007bc        0x0
+ .iplt          0x000007bc        0x0 build/bot/main.o
+
+.rel.dyn        0x000007bc        0x0
+ .rel.iplt      0x000007bc        0x0 build/bot/main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x000007bc        0x0
+                0x000007bc                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000007bc                        __exidx_end = .
+                0x000007bc                        . = ALIGN (0x4)
+                0x000007bc                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x000007bc
+                0x20000000                        _sdata = .
+ *(.data*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x000007bc
+ .igot.plt      0x20000000        0x0 build/bot/main.o
+
+.bss            0x20000000       0x6c load address 0x000007bc
+                0x20000000                        _sbss = .
+ *(.bss*)
+ .bss.motion    0x20000000       0x20 build/bot/main.o
+                0x20000000                motion
+ .bss.enc2_count
+                0x20000020        0x4 build/bot/main.o
+                0x20000020                enc2_count
+ .bss.enc1_count
+                0x20000024        0x4 build/bot/main.o
+                0x20000024                enc1_count
+ .bss.rx_map_data
+                0x20000028       0x10 build/bot/radio.o
+ .bss.rx_ready  0x20000038        0x1 build/bot/radio.o
+ *fill*         0x20000039        0x3 
+ .bss.rx_packet
+                0x2000003c       0x10 build/bot/radio.o
+ .bss.tx_packet
+                0x2000004c       0x10 build/bot/radio.o
+ .bss.s_sequence.0
+                0x2000005c        0x8 build/bot/motor.o
+ .bss.countertop
+                0x20000064        0x4 build/bot/motor.o
+ .bss.motor_status
+                0x20000068        0x1 build/bot/motor.o
+ *(COMMON)
+                0x2000006c                        . = ALIGN (0x4)
+ *fill*         0x20000069        0x3 
+                0x2000006c                        _ebss = .
+
+.heap_stack     0x2000006c     0x1804 load address 0x000007bc
+                0x20000070                        . = ALIGN (0x8)
+ *fill*         0x2000006c        0x4 
+                0x20000870                        . = (. + 0x800)
+ *fill*         0x20000070      0x800 
+                0x20001870                        . = (. + 0x1000)
+ *fill*         0x20000870     0x1000 
+                0x20001870                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.note*)
+ *(.comment*)
+OUTPUT(bot.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 build/bot/main.o
+ .ARM.attributes
+                0x00000034       0x34 build/bot/radio.o
+ .ARM.attributes
+                0x00000068       0x34 build/bot/motor.o
+ .ARM.attributes
+                0x0000009c       0x34 build/bot/gpio.o
+ .ARM.attributes
+                0x000000d0       0x34 build/bot/startup_gcc_nrf52833.o
+ .ARM.attributes
+                0x00000104       0x34 build/bot/runtime.o
+
+.debug_info     0x00000000     0x240c
+ .debug_info    0x00000000      0x8b1 build/bot/main.o
+ .debug_info    0x000008b1      0xe07 build/bot/radio.o
+ .debug_info    0x000016b8      0x4dd build/bot/motor.o
+ .debug_info    0x00001b95      0x5c4 build/bot/gpio.o
+ .debug_info    0x00002159      0x17a build/bot/startup_gcc_nrf52833.o
+ .debug_info    0x000022d3      0x139 build/bot/runtime.o
+
+.debug_abbrev   0x00000000      0xad4
+ .debug_abbrev  0x00000000      0x2ba build/bot/main.o
+ .debug_abbrev  0x000002ba      0x22c build/bot/radio.o
+ .debug_abbrev  0x000004e6      0x1ad build/bot/motor.o
+ .debug_abbrev  0x00000693      0x279 build/bot/gpio.o
+ .debug_abbrev  0x0000090c       0xfd build/bot/startup_gcc_nrf52833.o
+ .debug_abbrev  0x00000a09       0xcb build/bot/runtime.o
+
+.debug_loclists
+                0x00000000      0x776
+ .debug_loclists
+                0x00000000      0x193 build/bot/main.o
+ .debug_loclists
+                0x00000193       0xc3 build/bot/radio.o
+ .debug_loclists
+                0x00000256      0x2a1 build/bot/motor.o
+ .debug_loclists
+                0x000004f7      0x174 build/bot/gpio.o
+ .debug_loclists
+                0x0000066b       0x46 build/bot/startup_gcc_nrf52833.o
+ .debug_loclists
+                0x000006b1       0xc5 build/bot/runtime.o
+
+.debug_aranges  0x00000000      0x198
+ .debug_aranges
+                0x00000000       0x70 build/bot/main.o
+ .debug_aranges
+                0x00000070       0x58 build/bot/radio.o
+ .debug_aranges
+                0x000000c8       0x30 build/bot/motor.o
+ .debug_aranges
+                0x000000f8       0x48 build/bot/gpio.o
+ .debug_aranges
+                0x00000140       0x30 build/bot/startup_gcc_nrf52833.o
+ .debug_aranges
+                0x00000170       0x28 build/bot/runtime.o
+
+.debug_rnglists
+                0x00000000      0x204
+ .debug_rnglists
+                0x00000000       0xac build/bot/main.o
+ .debug_rnglists
+                0x000000ac       0x84 build/bot/radio.o
+ .debug_rnglists
+                0x00000130       0x20 build/bot/motor.o
+ .debug_rnglists
+                0x00000150       0x7c build/bot/gpio.o
+ .debug_rnglists
+                0x000001cc       0x1f build/bot/startup_gcc_nrf52833.o
+ .debug_rnglists
+                0x000001eb       0x19 build/bot/runtime.o
+
+.debug_macro    0x00000000     0x21fc
+ .debug_macro   0x00000000       0xc7 build/bot/main.o
+ .debug_macro   0x000000c7      0xaf0 build/bot/main.o
+ .debug_macro   0x00000bb7      0x172 build/bot/main.o
+ .debug_macro   0x00000d29       0x22 build/bot/main.o
+ .debug_macro   0x00000d4b       0x8e build/bot/main.o
+ .debug_macro   0x00000dd9       0x51 build/bot/main.o
+ .debug_macro   0x00000e2a      0x103 build/bot/main.o
+ .debug_macro   0x00000f2d       0x6a build/bot/main.o
+ .debug_macro   0x00000f97      0x1df build/bot/main.o
+ .debug_macro   0x00001176       0x10 build/bot/main.o
+ .debug_macro   0x00001186      0x149 build/bot/radio.o
+ .debug_macro   0x000012cf       0x7b build/bot/radio.o
+ .debug_macro   0x0000134a       0x2a build/bot/radio.o
+ .debug_macro   0x00001374       0x3c build/bot/radio.o
+ .debug_macro   0x000013b0       0x34 build/bot/radio.o
+ .debug_macro   0x000013e4      0x1a5 build/bot/radio.o
+ .debug_macro   0x00001589      0x364 build/bot/radio.o
+ .debug_macro   0x000018ed       0x16 build/bot/radio.o
+ .debug_macro   0x00001903       0x4a build/bot/radio.o
+ .debug_macro   0x0000194d       0x34 build/bot/radio.o
+ .debug_macro   0x00001981       0x10 build/bot/radio.o
+ .debug_macro   0x00001991       0x58 build/bot/radio.o
+ .debug_macro   0x000019e9      0x1e5 build/bot/radio.o
+ .debug_macro   0x00001bce       0x10 build/bot/radio.o
+ .debug_macro   0x00001bde       0x3c build/bot/radio.o
+ .debug_macro   0x00001c1a       0x98 build/bot/motor.o
+ .debug_macro   0x00001cb2       0x86 build/bot/gpio.o
+ .debug_macro   0x00001d38      0x441 build/bot/gpio.o
+ .debug_macro   0x00002179       0x69 build/bot/startup_gcc_nrf52833.o
+ .debug_macro   0x000021e2       0x1a build/bot/runtime.o
+
+.debug_line     0x00000000     0x19c2
+ .debug_line    0x00000000      0x6ff build/bot/main.o
+ .debug_line    0x000006ff      0x758 build/bot/radio.o
+ .debug_line    0x00000e57      0x3c1 build/bot/motor.o
+ .debug_line    0x00001218      0x452 build/bot/gpio.o
+ .debug_line    0x0000166a      0x267 build/bot/startup_gcc_nrf52833.o
+ .debug_line    0x000018d1       0xf1 build/bot/runtime.o
+
+.debug_str      0x00000000    0x6c6cc
+ .debug_str     0x00000000    0x6c6cc build/bot/main.o
+                               0x435b (size before relaxing)
+ .debug_str     0x0006c6cc        0x0 build/bot/radio.o
+                              0x6ccd0 (size before relaxing)
+ .debug_str     0x0006c6cc        0x0 build/bot/motor.o
+                              0x6986f (size before relaxing)
+ .debug_str     0x0006c6cc        0x0 build/bot/gpio.o
+                              0x697e3 (size before relaxing)
+ .debug_str     0x0006c6cc        0x0 build/bot/startup_gcc_nrf52833.o
+                               0x3e8e (size before relaxing)
+ .debug_str     0x0006c6cc        0x0 build/bot/runtime.o
+                               0x32c5 (size before relaxing)
+
+.debug_frame    0x00000000      0x32c
+ .debug_frame   0x00000000      0x124 build/bot/main.o
+ .debug_frame   0x00000124       0xbc build/bot/radio.o
+ .debug_frame   0x000001e0       0x54 build/bot/motor.o
+ .debug_frame   0x00000234       0x80 build/bot/gpio.o
+ .debug_frame   0x000002b4       0x48 build/bot/startup_gcc_nrf52833.o
+ .debug_frame   0x000002fc       0x30 build/bot/runtime.o

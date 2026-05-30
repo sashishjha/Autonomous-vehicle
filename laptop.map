@@ -1,0 +1,844 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                              build/laptop/printf.o (__aeabi_dmul)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                              build/laptop/printf.o (__aeabi_dadd)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                              build/laptop/printf.o (__aeabi_d2iz)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                              build/laptop/printf.o (__aeabi_d2f)
+
+Discarded input sections
+
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/main.o
+ .text          0x00000000        0x0 build/laptop/main.o
+ .data          0x00000000        0x0 build/laptop/main.o
+ .bss           0x00000000        0x0 build/laptop/main.o
+ .text.delay_ms
+                0x00000000        0x4 build/laptop/main.o
+ .text.parse_uint
+                0x00000000       0x2c build/laptop/main.o
+ .comment       0x00000000       0x46 build/laptop/main.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/uart.o
+ .text          0x00000000        0x0 build/laptop/uart.o
+ .data          0x00000000        0x0 build/laptop/uart.o
+ .bss           0x00000000        0x0 build/laptop/uart.o
+ .text.uart_puts
+                0x00000000       0x28 build/laptop/uart.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/uart.o
+ .debug_macro   0x00000000       0x22 build/laptop/uart.o
+ .debug_macro   0x00000000       0x8e build/laptop/uart.o
+ .debug_macro   0x00000000       0x51 build/laptop/uart.o
+ .debug_macro   0x00000000      0x103 build/laptop/uart.o
+ .debug_macro   0x00000000       0x6a build/laptop/uart.o
+ .debug_macro   0x00000000      0x1df build/laptop/uart.o
+ .debug_macro   0x00000000      0x447 build/laptop/uart.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/uart.o
+ .comment       0x00000000       0x46 build/laptop/uart.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/radio.o
+ .text          0x00000000        0x0 build/laptop/radio.o
+ .data          0x00000000        0x0 build/laptop/radio.o
+ .bss           0x00000000        0x0 build/laptop/radio.o
+ .text.radio_tx_radar
+                0x00000000       0x9c build/laptop/radio.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/radio.o
+ .debug_macro   0x00000000       0x22 build/laptop/radio.o
+ .debug_macro   0x00000000       0x8e build/laptop/radio.o
+ .debug_macro   0x00000000       0x51 build/laptop/radio.o
+ .debug_macro   0x00000000      0x103 build/laptop/radio.o
+ .debug_macro   0x00000000       0x6a build/laptop/radio.o
+ .debug_macro   0x00000000      0x1df build/laptop/radio.o
+ .debug_macro   0x00000000      0x447 build/laptop/radio.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/radio.o
+ .debug_macro   0x00000000       0x7b build/laptop/radio.o
+ .debug_macro   0x00000000       0x2a build/laptop/radio.o
+ .debug_macro   0x00000000       0x3c build/laptop/radio.o
+ .debug_macro   0x00000000       0x34 build/laptop/radio.o
+ .debug_macro   0x00000000      0x364 build/laptop/radio.o
+ .debug_macro   0x00000000       0x16 build/laptop/radio.o
+ .debug_macro   0x00000000       0x4a build/laptop/radio.o
+ .debug_macro   0x00000000       0x34 build/laptop/radio.o
+ .debug_macro   0x00000000       0x10 build/laptop/radio.o
+ .debug_macro   0x00000000       0x58 build/laptop/radio.o
+ .debug_macro   0x00000000      0x1e5 build/laptop/radio.o
+ .comment       0x00000000       0x46 build/laptop/radio.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/motor.o
+ .text          0x00000000        0x0 build/laptop/motor.o
+ .data          0x00000000        0x0 build/laptop/motor.o
+ .bss           0x00000000        0x0 build/laptop/motor.o
+ .text.motor_init
+                0x00000000       0x40 build/laptop/motor.o
+ .text.motor_on
+                0x00000000       0xc4 build/laptop/motor.o
+ .text.motor_off
+                0x00000000       0x28 build/laptop/motor.o
+ .bss.s_sequence.0
+                0x00000000        0x8 build/laptop/motor.o
+ .bss.countertop
+                0x00000000        0x4 build/laptop/motor.o
+ .bss.motor_status
+                0x00000000        0x1 build/laptop/motor.o
+ .debug_info    0x00000000      0x4dd build/laptop/motor.o
+ .debug_abbrev  0x00000000      0x1ad build/laptop/motor.o
+ .debug_loclists
+                0x00000000      0x2a1 build/laptop/motor.o
+ .debug_aranges
+                0x00000000       0x30 build/laptop/motor.o
+ .debug_rnglists
+                0x00000000       0x20 build/laptop/motor.o
+ .debug_macro   0x00000000       0x98 build/laptop/motor.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/motor.o
+ .debug_macro   0x00000000       0x22 build/laptop/motor.o
+ .debug_macro   0x00000000       0x8e build/laptop/motor.o
+ .debug_macro   0x00000000       0x51 build/laptop/motor.o
+ .debug_macro   0x00000000      0x103 build/laptop/motor.o
+ .debug_macro   0x00000000       0x6a build/laptop/motor.o
+ .debug_macro   0x00000000      0x1df build/laptop/motor.o
+ .debug_macro   0x00000000      0x447 build/laptop/motor.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/motor.o
+ .debug_line    0x00000000      0x3c1 build/laptop/motor.o
+ .debug_str     0x00000000    0x69872 build/laptop/motor.o
+ .comment       0x00000000       0x46 build/laptop/motor.o
+ .debug_frame   0x00000000       0x54 build/laptop/motor.o
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/motor.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/gpio.o
+ .text          0x00000000        0x0 build/laptop/gpio.o
+ .data          0x00000000        0x0 build/laptop/gpio.o
+ .bss           0x00000000        0x0 build/laptop/gpio.o
+ .text.gpio_init
+                0x00000000        0x4 build/laptop/gpio.o
+ .text.gpio_config
+                0x00000000       0x24 build/laptop/gpio.o
+ .text.gpio_write
+                0x00000000       0x28 build/laptop/gpio.o
+ .text.gpio_read
+                0x00000000       0x20 build/laptop/gpio.o
+ .text.gpio_inten
+                0x00000000       0x40 build/laptop/gpio.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/gpio.o
+ .debug_macro   0x00000000       0x22 build/laptop/gpio.o
+ .debug_macro   0x00000000       0x8e build/laptop/gpio.o
+ .debug_macro   0x00000000       0x51 build/laptop/gpio.o
+ .debug_macro   0x00000000      0x103 build/laptop/gpio.o
+ .debug_macro   0x00000000       0x6a build/laptop/gpio.o
+ .debug_macro   0x00000000      0x1df build/laptop/gpio.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/gpio.o
+ .comment       0x00000000       0x46 build/laptop/gpio.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/servo.o
+ .text          0x00000000        0x0 build/laptop/servo.o
+ .data          0x00000000        0x0 build/laptop/servo.o
+ .bss           0x00000000        0x0 build/laptop/servo.o
+ .text.servo_init
+                0x00000000       0x34 build/laptop/servo.o
+ .text.servo_set_angle
+                0x00000000       0x7c build/laptop/servo.o
+ .bss.countertop
+                0x00000000        0x4 build/laptop/servo.o
+ .bss.seq       0x00000000        0x2 build/laptop/servo.o
+ .debug_info    0x00000000      0x43d build/laptop/servo.o
+ .debug_abbrev  0x00000000      0x16b build/laptop/servo.o
+ .debug_loclists
+                0x00000000      0x2a7 build/laptop/servo.o
+ .debug_aranges
+                0x00000000       0x28 build/laptop/servo.o
+ .debug_rnglists
+                0x00000000       0x19 build/laptop/servo.o
+ .debug_macro   0x00000000       0x9e build/laptop/servo.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/servo.o
+ .debug_macro   0x00000000       0x22 build/laptop/servo.o
+ .debug_macro   0x00000000       0x8e build/laptop/servo.o
+ .debug_macro   0x00000000       0x51 build/laptop/servo.o
+ .debug_macro   0x00000000      0x103 build/laptop/servo.o
+ .debug_macro   0x00000000       0x6a build/laptop/servo.o
+ .debug_macro   0x00000000      0x1df build/laptop/servo.o
+ .debug_macro   0x00000000      0x447 build/laptop/servo.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/servo.o
+ .debug_line    0x00000000      0x2fa build/laptop/servo.o
+ .debug_str     0x00000000    0x6982f build/laptop/servo.o
+ .comment       0x00000000       0x46 build/laptop/servo.o
+ .debug_frame   0x00000000       0x3c build/laptop/servo.o
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/servo.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/display.o
+ .text          0x00000000        0x0 build/laptop/display.o
+ .data          0x00000000        0x0 build/laptop/display.o
+ .bss           0x00000000        0x0 build/laptop/display.o
+ .text.scroll_left
+                0x00000000       0x34 build/laptop/display.o
+ .text.scroll_right
+                0x00000000       0x34 build/laptop/display.o
+ .text.display  0x00000000       0x3c build/laptop/display.o
+ .text.display_row_refresh
+                0x00000000       0x88 build/laptop/display.o
+ .bss.row.0     0x00000000        0x1 build/laptop/display.o
+ .rodata.col_pins
+                0x00000000       0x14 build/laptop/display.o
+ .rodata.row_pins
+                0x00000000       0x14 build/laptop/display.o
+ .bss.framebuffer
+                0x00000000       0x19 build/laptop/display.o
+ .debug_info    0x00000000      0x2fc build/laptop/display.o
+ .debug_abbrev  0x00000000      0x166 build/laptop/display.o
+ .debug_loclists
+                0x00000000      0x128 build/laptop/display.o
+ .debug_aranges
+                0x00000000       0x38 build/laptop/display.o
+ .debug_rnglists
+                0x00000000       0x92 build/laptop/display.o
+ .debug_macro   0x00000000       0xc5 build/laptop/display.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/display.o
+ .debug_macro   0x00000000       0x22 build/laptop/display.o
+ .debug_macro   0x00000000       0x8e build/laptop/display.o
+ .debug_macro   0x00000000       0x51 build/laptop/display.o
+ .debug_macro   0x00000000      0x103 build/laptop/display.o
+ .debug_macro   0x00000000       0x6a build/laptop/display.o
+ .debug_macro   0x00000000      0x1df build/laptop/display.o
+ .debug_macro   0x00000000      0x172 build/laptop/display.o
+ .debug_macro   0x00000000      0x447 build/laptop/display.o
+ .debug_macro   0x00000000    0x108e0 build/laptop/display.o
+ .debug_line    0x00000000      0x46b build/laptop/display.o
+ .debug_str     0x00000000    0x6991b build/laptop/display.o
+ .comment       0x00000000       0x46 build/laptop/display.o
+ .debug_frame   0x00000000       0x80 build/laptop/display.o
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/display.o
+ .group         0x00000000        0xc build/laptop/ultrasonic.o
+ .text          0x00000000        0x0 build/laptop/ultrasonic.o
+ .data          0x00000000        0x0 build/laptop/ultrasonic.o
+ .bss           0x00000000        0x0 build/laptop/ultrasonic.o
+ .text.ultrasonic_init
+                0x00000000       0x30 build/laptop/ultrasonic.o
+ .text.ultrasonic_read_cm
+                0x00000000       0x6c build/laptop/ultrasonic.o
+ .bss.echo      0x00000000        0x4 build/laptop/ultrasonic.o
+ .bss.trig      0x00000000        0x4 build/laptop/ultrasonic.o
+ .debug_info    0x00000000      0x214 build/laptop/ultrasonic.o
+ .debug_abbrev  0x00000000      0x18c build/laptop/ultrasonic.o
+ .debug_loclists
+                0x00000000       0x8e build/laptop/ultrasonic.o
+ .debug_aranges
+                0x00000000       0x28 build/laptop/ultrasonic.o
+ .debug_rnglists
+                0x00000000       0x19 build/laptop/ultrasonic.o
+ .debug_macro   0x00000000       0x25 build/laptop/ultrasonic.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/ultrasonic.o
+ .debug_line    0x00000000      0x11c build/laptop/ultrasonic.o
+ .debug_str     0x00000000     0x2fa5 build/laptop/ultrasonic.o
+ .comment       0x00000000       0x46 build/laptop/ultrasonic.o
+ .debug_frame   0x00000000       0x50 build/laptop/ultrasonic.o
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/ultrasonic.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/printf.o
+ .text          0x00000000        0x0 build/laptop/printf.o
+ .data          0x00000000        0x0 build/laptop/printf.o
+ .bss           0x00000000        0x0 build/laptop/printf.o
+ .text.puts     0x00000000       0x20 build/laptop/printf.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/printf.o
+ .debug_macro   0x00000000       0x22 build/laptop/printf.o
+ .debug_macro   0x00000000       0x8e build/laptop/printf.o
+ .debug_macro   0x00000000       0x51 build/laptop/printf.o
+ .debug_macro   0x00000000      0x103 build/laptop/printf.o
+ .debug_macro   0x00000000       0x6a build/laptop/printf.o
+ .debug_macro   0x00000000      0x1df build/laptop/printf.o
+ .comment       0x00000000       0x46 build/laptop/printf.o
+ .group         0x00000000        0xc build/laptop/ledbtn.o
+ .group         0x00000000        0xc build/laptop/ledbtn.o
+ .text          0x00000000        0x0 build/laptop/ledbtn.o
+ .data          0x00000000        0x0 build/laptop/ledbtn.o
+ .bss           0x00000000        0x0 build/laptop/ledbtn.o
+ .text.led_init
+                0x00000000       0x48 build/laptop/ledbtn.o
+ .text.led_on   0x00000000       0x28 build/laptop/ledbtn.o
+ .text.led_off  0x00000000       0x2c build/laptop/ledbtn.o
+ .text.button_init
+                0x00000000       0x18 build/laptop/ledbtn.o
+ .text.button_read
+                0x00000000       0x18 build/laptop/ledbtn.o
+ .rodata.button_pins
+                0x00000000        0x8 build/laptop/ledbtn.o
+ .rodata.col_pins
+                0x00000000       0x14 build/laptop/ledbtn.o
+ .rodata.row_pins
+                0x00000000       0x14 build/laptop/ledbtn.o
+ .debug_info    0x00000000      0x367 build/laptop/ledbtn.o
+ .debug_abbrev  0x00000000      0x18c build/laptop/ledbtn.o
+ .debug_loclists
+                0x00000000       0xd4 build/laptop/ledbtn.o
+ .debug_aranges
+                0x00000000       0x40 build/laptop/ledbtn.o
+ .debug_rnglists
+                0x00000000       0x46 build/laptop/ledbtn.o
+ .debug_macro   0x00000000       0x2e build/laptop/ledbtn.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/ledbtn.o
+ .debug_macro   0x00000000      0x172 build/laptop/ledbtn.o
+ .debug_line    0x00000000      0x16f build/laptop/ledbtn.o
+ .debug_str     0x00000000     0x31c2 build/laptop/ledbtn.o
+ .comment       0x00000000       0x46 build/laptop/ledbtn.o
+ .debug_frame   0x00000000       0x98 build/laptop/ledbtn.o
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/ledbtn.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/startup_gcc_nrf52833.o
+ .text          0x00000000        0x0 build/laptop/startup_gcc_nrf52833.o
+ .data          0x00000000        0x0 build/laptop/startup_gcc_nrf52833.o
+ .bss           0x00000000        0x0 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x22 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x8e build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x51 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x103 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x6a build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x1df build/laptop/startup_gcc_nrf52833.o
+ .comment       0x00000000       0x46 build/laptop/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/laptop/runtime.o
+ .group         0x00000000        0xc build/laptop/runtime.o
+ .text          0x00000000        0x0 build/laptop/runtime.o
+ .data          0x00000000        0x0 build/laptop/runtime.o
+ .bss           0x00000000        0x0 build/laptop/runtime.o
+ .text.memset   0x00000000       0x10 build/laptop/runtime.o
+ .debug_macro   0x00000000      0xaf0 build/laptop/runtime.o
+ .debug_macro   0x00000000      0x1a5 build/laptop/runtime.o
+ .comment       0x00000000       0x46 build/laptop/runtime.o
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00080000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/laptop/main.o
+LOAD build/laptop/uart.o
+LOAD build/laptop/radio.o
+LOAD build/laptop/motor.o
+LOAD build/laptop/gpio.o
+LOAD build/laptop/servo.o
+LOAD build/laptop/display.o
+LOAD build/laptop/ultrasonic.o
+LOAD build/laptop/printf.o
+LOAD build/laptop/ledbtn.o
+LOAD build/laptop/startup_gcc_nrf52833.o
+LOAD build/laptop/runtime.o
+LOAD /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x00000000      0x100
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x100 build/laptop/startup_gcc_nrf52833.o
+                0x00000000                vector_table
+
+.text           0x00000100      0xdec
+ *(.text*)
+ .text.encoder1_callback
+                0x00000100        0x4 build/laptop/main.o
+                0x00000100                encoder1_callback
+ .text.encoder2_callback
+                0x00000104        0x4 build/laptop/main.o
+                0x00000104                encoder2_callback
+ .text.startup.main
+                0x00000108      0x19c build/laptop/main.o
+                0x00000108                main
+ .text.uart_init
+                0x000002a4       0x3c build/laptop/uart.o
+                0x000002a4                uart_init
+ .text.uart_putc
+                0x000002e0       0x1c build/laptop/uart.o
+                0x000002e0                uart_putc
+ .text.uart_read_ready
+                0x000002fc        0xc build/laptop/uart.o
+                0x000002fc                uart_read_ready
+ .text.uart_read_char
+                0x00000308       0x14 build/laptop/uart.o
+                0x00000308                uart_read_char
+ .text.radio_hfclk_start
+                0x0000031c       0x18 build/laptop/radio.o
+                0x0000031c                radio_hfclk_start
+ .text.radio_init
+                0x00000334       0x70 build/laptop/radio.o
+                0x00000334                radio_init
+ .text.radio_tx_map
+                0x000003a4       0x90 build/laptop/radio.o
+                0x000003a4                radio_tx_map
+ .text.radio_start_rx_radar
+                0x00000434       0x34 build/laptop/radio.o
+                0x00000434                radio_start_rx_radar
+ .text.radio_update_radar
+                0x00000468       0x3c build/laptop/radio.o
+                0x00000468                radio_update_radar
+ .text.radio_is_ready_radar
+                0x000004a4        0xc build/laptop/radio.o
+                0x000004a4                radio_is_ready_radar
+ .text.radio_poll_map
+                0x000004b0       0x1c build/laptop/radio.o
+                0x000004b0                radio_poll_map
+ .text.GPIOTE_IRQHandler
+                0x000004cc       0x54 build/laptop/gpio.o
+                0x000004cc                GPIOTE_IRQHandler
+ .text.print_uint
+                0x00000520       0x4c build/laptop/printf.o
+ .text.printf   0x0000056c      0x168 build/laptop/printf.o
+                0x0000056c                printf
+ .text.Default_Handler
+                0x000006d4        0x4 build/laptop/startup_gcc_nrf52833.o
+                0x000006d4                COMP_LPCOMP_IRQHandler
+                0x000006d4                DebugMon_Handler
+                0x000006d4                RTC0_IRQHandler
+                0x000006d4                SWI0_EGU0_IRQHandler
+                0x000006d4                HardFault_Handler
+                0x000006d4                SWI2_EGU2_IRQHandler
+                0x000006d4                SysTick_Handler
+                0x000006d4                PWM1_IRQHandler
+                0x000006d4                PendSV_Handler
+                0x000006d4                NMI_Handler
+                0x000006d4                POWER_CLOCK_IRQHandler
+                0x000006d4                RADIO_IRQHandler
+                0x000006d4                PDM_IRQHandler
+                0x000006d4                TEMP_IRQHandler
+                0x000006d4                QDEC_IRQHandler
+                0x000006d4                TIMER3_IRQHandler
+                0x000006d4                PWM3_IRQHandler
+                0x000006d4                FPU_IRQHandler
+                0x000006d4                USBD_IRQHandler
+                0x000006d4                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x000006d4                UsageFault_Handler
+                0x000006d4                UARTE0_UART0_IRQHandler
+                0x000006d4                TIMER4_IRQHandler
+                0x000006d4                I2S_IRQHandler
+                0x000006d4                SWI4_EGU4_IRQHandler
+                0x000006d4                TIMER0_IRQHandler
+                0x000006d4                UARTE1_IRQHandler
+                0x000006d4                TIMER1_IRQHandler
+                0x000006d4                SPIM3_IRQHandler
+                0x000006d4                PWM2_IRQHandler
+                0x000006d4                ECB_IRQHandler
+                0x000006d4                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x000006d4                Default_Handler
+                0x000006d4                SAADC_IRQHandler
+                0x000006d4                CCM_AAR_IRQHandler
+                0x000006d4                WDT_IRQHandler
+                0x000006d4                SVC_Handler
+                0x000006d4                SWI5_EGU5_IRQHandler
+                0x000006d4                RNG_IRQHandler
+                0x000006d4                RTC2_IRQHandler
+                0x000006d4                PWM0_IRQHandler
+                0x000006d4                SWI3_EGU3_IRQHandler
+                0x000006d4                RTC1_IRQHandler
+                0x000006d4                SWI1_EGU1_IRQHandler
+                0x000006d4                SPIM2_SPIS2_SPI2_IRQHandler
+                0x000006d4                NFCT_IRQHandler
+                0x000006d4                BusFault_Handler
+                0x000006d4                MWU_IRQHandler
+                0x000006d4                MemoryManagement_Handler
+                0x000006d4                TIMER2_IRQHandler
+ .text.SystemInit
+                0x000006d8        0x4 build/laptop/startup_gcc_nrf52833.o
+                0x000006d8                SystemInit
+ .text.Reset_Handler
+                0x000006dc       0x60 build/laptop/startup_gcc_nrf52833.o
+                0x000006dc                Reset_Handler
+ .text.memcpy   0x0000073c       0x14 build/laptop/runtime.o
+                0x0000073c                memcpy
+ .text          0x00000750      0x254 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                0x00000750                __aeabi_dmul
+                0x00000750                __muldf3
+ .text          0x000009a4      0x378 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x000009a4                __aeabi_drsub
+                0x000009ac                __subdf3
+                0x000009ac                __aeabi_dsub
+                0x000009b0                __aeabi_dadd
+                0x000009b0                __adddf3
+                0x00000c28                __aeabi_ui2d
+                0x00000c28                __floatunsidf
+                0x00000c48                __floatsidf
+                0x00000c48                __aeabi_i2d
+                0x00000c6c                __extendsfdf2
+                0x00000c6c                __aeabi_f2d
+                0x00000cb0                __aeabi_ul2d
+                0x00000cb0                __floatundidf
+                0x00000cc0                __aeabi_l2d
+                0x00000cc0                __floatdidf
+ .text          0x00000d1c       0x50 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                0x00000d1c                __fixdfsi
+                0x00000d1c                __aeabi_d2iz
+ .text          0x00000d6c       0xa0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                0x00000d6c                __aeabi_d2f
+                0x00000d6c                __truncdfsf2
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x00000e0c       0xde build/laptop/main.o
+ *(.init)
+ *(.fini)
+                0x00000eec                        . = ALIGN (0x4)
+ *fill*         0x00000eea        0x2 
+
+.glue_7         0x00000eec        0x0
+ .glue_7        0x00000eec        0x0 linker stubs
+
+.glue_7t        0x00000eec        0x0
+ .glue_7t       0x00000eec        0x0 linker stubs
+
+.vfp11_veneer   0x00000eec        0x0
+ .vfp11_veneer  0x00000eec        0x0 linker stubs
+
+.v4_bx          0x00000eec        0x0
+ .v4_bx         0x00000eec        0x0 linker stubs
+
+.iplt           0x00000eec        0x0
+ .iplt          0x00000eec        0x0 build/laptop/main.o
+
+.rel.dyn        0x00000eec        0x0
+ .rel.iplt      0x00000eec        0x0 build/laptop/main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000eec        0x0
+                0x00000eec                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000eec                        __exidx_end = .
+                0x00000eec                        . = ALIGN (0x4)
+                0x00000eec                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x00000eec
+                0x20000000                        _sdata = .
+ *(.data*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x00000eec
+ .igot.plt      0x20000000        0x0 build/laptop/main.o
+
+.bss            0x20000000       0x40 load address 0x00000eec
+                0x20000000                        _sbss = .
+ *(.bss*)
+ .bss.cmd_buf_len
+                0x20000000        0x4 build/laptop/main.o
+                0x20000000                cmd_buf_len
+ .bss.cmd_buf   0x20000004        0x8 build/laptop/main.o
+                0x20000004                cmd_buf
+ .bss.rx_map_data
+                0x2000000c       0x10 build/laptop/radio.o
+ .bss.rx_ready  0x2000001c        0x1 build/laptop/radio.o
+ *fill*         0x2000001d        0x3 
+ .bss.rx_packet
+                0x20000020       0x10 build/laptop/radio.o
+ .bss.tx_packet
+                0x20000030       0x10 build/laptop/radio.o
+ *(COMMON)
+                0x20000040                        . = ALIGN (0x4)
+                0x20000040                        _ebss = .
+
+.heap_stack     0x20000040     0x1800 load address 0x00000eec
+                0x20000040                        . = ALIGN (0x8)
+                0x20000840                        . = (. + 0x800)
+ *fill*         0x20000040      0x800 
+                0x20001840                        . = (. + 0x1000)
+ *fill*         0x20000840     0x1000 
+                0x20001840                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.note*)
+ *(.comment*)
+OUTPUT(laptop.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 build/laptop/main.o
+ .ARM.attributes
+                0x00000034       0x34 build/laptop/uart.o
+ .ARM.attributes
+                0x00000068       0x34 build/laptop/radio.o
+ .ARM.attributes
+                0x0000009c       0x34 build/laptop/gpio.o
+ .ARM.attributes
+                0x000000d0       0x34 build/laptop/printf.o
+ .ARM.attributes
+                0x00000104       0x34 build/laptop/startup_gcc_nrf52833.o
+ .ARM.attributes
+                0x00000138       0x34 build/laptop/runtime.o
+ .ARM.attributes
+                0x0000016c       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000018e       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000001b0       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000001d2       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+.debug_info     0x00000000     0x26f9
+ .debug_info    0x00000000      0x51a build/laptop/main.o
+ .debug_info    0x0000051a      0x4bf build/laptop/uart.o
+ .debug_info    0x000009d9      0xe07 build/laptop/radio.o
+ .debug_info    0x000017e0      0x5c4 build/laptop/gpio.o
+ .debug_info    0x00001da4      0x6a2 build/laptop/printf.o
+ .debug_info    0x00002446      0x17a build/laptop/startup_gcc_nrf52833.o
+ .debug_info    0x000025c0      0x139 build/laptop/runtime.o
+
+.debug_abbrev   0x00000000      0xd10
+ .debug_abbrev  0x00000000      0x29c build/laptop/main.o
+ .debug_abbrev  0x0000029c      0x1d3 build/laptop/uart.o
+ .debug_abbrev  0x0000046f      0x22c build/laptop/radio.o
+ .debug_abbrev  0x0000069b      0x279 build/laptop/gpio.o
+ .debug_abbrev  0x00000914      0x234 build/laptop/printf.o
+ .debug_abbrev  0x00000b48       0xfd build/laptop/startup_gcc_nrf52833.o
+ .debug_abbrev  0x00000c45       0xcb build/laptop/runtime.o
+
+.debug_loclists
+                0x00000000      0x8e1
+ .debug_loclists
+                0x00000000      0x1ab build/laptop/main.o
+ .debug_loclists
+                0x000001ab       0x8f build/laptop/uart.o
+ .debug_loclists
+                0x0000023a       0xc3 build/laptop/radio.o
+ .debug_loclists
+                0x000002fd      0x174 build/laptop/gpio.o
+ .debug_loclists
+                0x00000471      0x365 build/laptop/printf.o
+ .debug_loclists
+                0x000007d6       0x46 build/laptop/startup_gcc_nrf52833.o
+ .debug_loclists
+                0x0000081c       0xc5 build/laptop/runtime.o
+
+.debug_aranges  0x00000000      0x1a8
+ .debug_aranges
+                0x00000000       0x40 build/laptop/main.o
+ .debug_aranges
+                0x00000040       0x40 build/laptop/uart.o
+ .debug_aranges
+                0x00000080       0x58 build/laptop/radio.o
+ .debug_aranges
+                0x000000d8       0x48 build/laptop/gpio.o
+ .debug_aranges
+                0x00000120       0x30 build/laptop/printf.o
+ .debug_aranges
+                0x00000150       0x30 build/laptop/startup_gcc_nrf52833.o
+ .debug_aranges
+                0x00000180       0x28 build/laptop/runtime.o
+
+.debug_rnglists
+                0x00000000      0x26a
+ .debug_rnglists
+                0x00000000       0x5a build/laptop/main.o
+ .debug_rnglists
+                0x0000005a       0x37 build/laptop/uart.o
+ .debug_rnglists
+                0x00000091       0x84 build/laptop/radio.o
+ .debug_rnglists
+                0x00000115       0x7c build/laptop/gpio.o
+ .debug_rnglists
+                0x00000191       0xa1 build/laptop/printf.o
+ .debug_rnglists
+                0x00000232       0x1f build/laptop/startup_gcc_nrf52833.o
+ .debug_rnglists
+                0x00000251       0x19 build/laptop/runtime.o
+
+.debug_macro    0x00000000    0x1343e
+ .debug_macro   0x00000000      0x1b8 build/laptop/main.o
+ .debug_macro   0x000001b8      0xaf0 build/laptop/main.o
+ .debug_macro   0x00000ca8       0x22 build/laptop/main.o
+ .debug_macro   0x00000cca       0x8e build/laptop/main.o
+ .debug_macro   0x00000d58       0x51 build/laptop/main.o
+ .debug_macro   0x00000da9      0x103 build/laptop/main.o
+ .debug_macro   0x00000eac       0x6a build/laptop/main.o
+ .debug_macro   0x00000f16      0x1df build/laptop/main.o
+ .debug_macro   0x000010f5      0x172 build/laptop/main.o
+ .debug_macro   0x00001267      0x447 build/laptop/main.o
+ .debug_macro   0x000016ae    0x108e0 build/laptop/main.o
+ .debug_macro   0x00011f8e       0x7b build/laptop/main.o
+ .debug_macro   0x00012009       0x2a build/laptop/main.o
+ .debug_macro   0x00012033       0x3c build/laptop/main.o
+ .debug_macro   0x0001206f       0x34 build/laptop/main.o
+ .debug_macro   0x000120a3       0x16 build/laptop/main.o
+ .debug_macro   0x000120b9       0x9e build/laptop/main.o
+ .debug_macro   0x00012157      0x364 build/laptop/main.o
+ .debug_macro   0x000124bb      0x127 build/laptop/main.o
+ .debug_macro   0x000125e2       0x10 build/laptop/main.o
+ .debug_macro   0x000125f2       0x16 build/laptop/main.o
+ .debug_macro   0x00012608       0x4a build/laptop/main.o
+ .debug_macro   0x00012652       0x34 build/laptop/main.o
+ .debug_macro   0x00012686       0x10 build/laptop/main.o
+ .debug_macro   0x00012696       0x58 build/laptop/main.o
+ .debug_macro   0x000126ee      0x1e5 build/laptop/main.o
+ .debug_macro   0x000128d3       0x16 build/laptop/main.o
+ .debug_macro   0x000128e9       0x16 build/laptop/main.o
+ .debug_macro   0x000128ff      0x170 build/laptop/main.o
+ .debug_macro   0x00012a6f       0x76 build/laptop/uart.o
+ .debug_macro   0x00012ae5      0x149 build/laptop/radio.o
+ .debug_macro   0x00012c2e      0x1a5 build/laptop/radio.o
+ .debug_macro   0x00012dd3       0x10 build/laptop/radio.o
+ .debug_macro   0x00012de3       0x3c build/laptop/radio.o
+ .debug_macro   0x00012e1f       0x86 build/laptop/gpio.o
+ .debug_macro   0x00012ea5      0x441 build/laptop/gpio.o
+ .debug_macro   0x000132e6       0x76 build/laptop/printf.o
+ .debug_macro   0x0001335c       0x5f build/laptop/printf.o
+ .debug_macro   0x000133bb       0x69 build/laptop/startup_gcc_nrf52833.o
+ .debug_macro   0x00013424       0x1a build/laptop/runtime.o
+
+.debug_line     0x00000000     0x1d02
+ .debug_line    0x00000000      0x56f build/laptop/main.o
+ .debug_line    0x0000056f      0x349 build/laptop/uart.o
+ .debug_line    0x000008b8      0x758 build/laptop/radio.o
+ .debug_line    0x00001010      0x452 build/laptop/gpio.o
+ .debug_line    0x00001462      0x548 build/laptop/printf.o
+ .debug_line    0x000019aa      0x267 build/laptop/startup_gcc_nrf52833.o
+ .debug_line    0x00001c11       0xf1 build/laptop/runtime.o
+
+.debug_str      0x00000000    0x6cdf5
+ .debug_str     0x00000000    0x6cdf5 build/laptop/main.o
+                              0x6d08f (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/uart.o
+                              0x697fb (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/radio.o
+                              0x6ccd3 (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/gpio.o
+                              0x697e6 (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/printf.o
+                               0x402c (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/startup_gcc_nrf52833.o
+                               0x3e91 (size before relaxing)
+ .debug_str     0x0006cdf5        0x0 build/laptop/runtime.o
+                               0x32c8 (size before relaxing)
+
+.debug_frame    0x00000000      0x454
+ .debug_frame   0x00000000       0x74 build/laptop/main.o
+ .debug_frame   0x00000074       0x68 build/laptop/uart.o
+ .debug_frame   0x000000dc       0xbc build/laptop/radio.o
+ .debug_frame   0x00000198       0x80 build/laptop/gpio.o
+ .debug_frame   0x00000218       0xa0 build/laptop/printf.o
+ .debug_frame   0x000002b8       0x48 build/laptop/startup_gcc_nrf52833.o
+ .debug_frame   0x00000300       0x30 build/laptop/runtime.o
+ .debug_frame   0x00000330       0x30 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000360       0xac /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000040c       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000430       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+.debug_line_str
+                0x00000000       0xd7
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                                 0xd7 (size before relaxing)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                                 0xd7 (size before relaxing)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                                 0xd7 (size before relaxing)

@@ -1,0 +1,436 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                              build/serialtest_swapped/printf.o (__aeabi_dmul)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                              build/serialtest_swapped/printf.o (__aeabi_dadd)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                              build/serialtest_swapped/printf.o (__aeabi_d2iz)
+/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                              build/serialtest_swapped/printf.o (__aeabi_d2f)
+
+Discarded input sections
+
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/serial_test.o
+ .text          0x00000000        0x0 build/serialtest_swapped/serial_test.o
+ .data          0x00000000        0x0 build/serialtest_swapped/serial_test.o
+ .bss           0x00000000        0x0 build/serialtest_swapped/serial_test.o
+ .text.delay_ms
+                0x00000000        0x4 build/serialtest_swapped/serial_test.o
+ .text.encoder1_callback
+                0x00000000        0x4 build/serialtest_swapped/serial_test.o
+ .text.encoder2_callback
+                0x00000000        0x4 build/serialtest_swapped/serial_test.o
+ .comment       0x00000000       0x46 build/serialtest_swapped/serial_test.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/uart.o
+ .text          0x00000000        0x0 build/serialtest_swapped/uart.o
+ .data          0x00000000        0x0 build/serialtest_swapped/uart.o
+ .bss           0x00000000        0x0 build/serialtest_swapped/uart.o
+ .text.uart_puts
+                0x00000000       0x28 build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000      0xaf6 build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000       0x22 build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000       0x8e build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000       0x51 build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000      0x103 build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000       0x6a build/serialtest_swapped/uart.o
+ .debug_macro   0x00000000      0x1df build/serialtest_swapped/uart.o
+ .comment       0x00000000       0x46 build/serialtest_swapped/uart.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/printf.o
+ .text          0x00000000        0x0 build/serialtest_swapped/printf.o
+ .data          0x00000000        0x0 build/serialtest_swapped/printf.o
+ .bss           0x00000000        0x0 build/serialtest_swapped/printf.o
+ .text.puts     0x00000000       0x20 build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000      0xaf6 build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000       0x22 build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000       0x8e build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000       0x51 build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000      0x103 build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000       0x6a build/serialtest_swapped/printf.o
+ .debug_macro   0x00000000      0x1df build/serialtest_swapped/printf.o
+ .comment       0x00000000       0x46 build/serialtest_swapped/printf.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/startup_gcc_nrf52833.o
+ .text          0x00000000        0x0 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .data          0x00000000        0x0 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .bss           0x00000000        0x0 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0xaf6 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x22 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x8e build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x51 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x103 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000       0x6a build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_macro   0x00000000      0x1df build/serialtest_swapped/startup_gcc_nrf52833.o
+ .comment       0x00000000       0x46 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .group         0x00000000        0xc build/serialtest_swapped/runtime.o
+ .group         0x00000000        0xc build/serialtest_swapped/runtime.o
+ .text          0x00000000        0x0 build/serialtest_swapped/runtime.o
+ .data          0x00000000        0x0 build/serialtest_swapped/runtime.o
+ .bss           0x00000000        0x0 build/serialtest_swapped/runtime.o
+ .text.memcpy   0x00000000       0x14 build/serialtest_swapped/runtime.o
+ .text.memset   0x00000000       0x10 build/serialtest_swapped/runtime.o
+ .debug_info    0x00000000      0x139 build/serialtest_swapped/runtime.o
+ .debug_abbrev  0x00000000       0xcb build/serialtest_swapped/runtime.o
+ .debug_loclists
+                0x00000000       0xc5 build/serialtest_swapped/runtime.o
+ .debug_aranges
+                0x00000000       0x28 build/serialtest_swapped/runtime.o
+ .debug_rnglists
+                0x00000000       0x19 build/serialtest_swapped/runtime.o
+ .debug_macro   0x00000000       0x1a build/serialtest_swapped/runtime.o
+ .debug_macro   0x00000000      0xaf6 build/serialtest_swapped/runtime.o
+ .debug_macro   0x00000000      0x1a5 build/serialtest_swapped/runtime.o
+ .debug_line    0x00000000       0xf1 build/serialtest_swapped/runtime.o
+ .debug_str     0x00000000     0x32d7 build/serialtest_swapped/runtime.o
+ .comment       0x00000000       0x46 build/serialtest_swapped/runtime.o
+ .debug_frame   0x00000000       0x30 build/serialtest_swapped/runtime.o
+ .ARM.attributes
+                0x00000000       0x34 build/serialtest_swapped/runtime.o
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00080000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/serialtest_swapped/serial_test.o
+LOAD build/serialtest_swapped/uart.o
+LOAD build/serialtest_swapped/printf.o
+LOAD build/serialtest_swapped/startup_gcc_nrf52833.o
+LOAD build/serialtest_swapped/runtime.o
+LOAD /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x00000000      0x100
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x100 build/serialtest_swapped/startup_gcc_nrf52833.o
+                0x00000000                vector_table
+
+.text           0x00000100      0x9bc
+ *(.text*)
+ .text.startup.main
+                0x00000100       0x40 build/serialtest_swapped/serial_test.o
+                0x00000100                main
+ .text.uart_init
+                0x00000140       0x3c build/serialtest_swapped/uart.o
+                0x00000140                uart_init
+ .text.uart_putc
+                0x0000017c       0x1c build/serialtest_swapped/uart.o
+                0x0000017c                uart_putc
+ .text.uart_read_ready
+                0x00000198        0xc build/serialtest_swapped/uart.o
+                0x00000198                uart_read_ready
+ .text.uart_read_char
+                0x000001a4       0x14 build/serialtest_swapped/uart.o
+                0x000001a4                uart_read_char
+ .text.print_uint
+                0x000001b8       0x4c build/serialtest_swapped/printf.o
+ .text.printf   0x00000204      0x168 build/serialtest_swapped/printf.o
+                0x00000204                printf
+ .text.Default_Handler
+                0x0000036c        0x4 build/serialtest_swapped/startup_gcc_nrf52833.o
+                0x0000036c                COMP_LPCOMP_IRQHandler
+                0x0000036c                DebugMon_Handler
+                0x0000036c                RTC0_IRQHandler
+                0x0000036c                SWI0_EGU0_IRQHandler
+                0x0000036c                HardFault_Handler
+                0x0000036c                SWI2_EGU2_IRQHandler
+                0x0000036c                SysTick_Handler
+                0x0000036c                GPIOTE_IRQHandler
+                0x0000036c                PWM1_IRQHandler
+                0x0000036c                PendSV_Handler
+                0x0000036c                NMI_Handler
+                0x0000036c                POWER_CLOCK_IRQHandler
+                0x0000036c                RADIO_IRQHandler
+                0x0000036c                PDM_IRQHandler
+                0x0000036c                TEMP_IRQHandler
+                0x0000036c                QDEC_IRQHandler
+                0x0000036c                TIMER3_IRQHandler
+                0x0000036c                PWM3_IRQHandler
+                0x0000036c                FPU_IRQHandler
+                0x0000036c                USBD_IRQHandler
+                0x0000036c                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x0000036c                UsageFault_Handler
+                0x0000036c                UARTE0_UART0_IRQHandler
+                0x0000036c                TIMER4_IRQHandler
+                0x0000036c                I2S_IRQHandler
+                0x0000036c                SWI4_EGU4_IRQHandler
+                0x0000036c                TIMER0_IRQHandler
+                0x0000036c                UARTE1_IRQHandler
+                0x0000036c                TIMER1_IRQHandler
+                0x0000036c                SPIM3_IRQHandler
+                0x0000036c                PWM2_IRQHandler
+                0x0000036c                ECB_IRQHandler
+                0x0000036c                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x0000036c                Default_Handler
+                0x0000036c                SAADC_IRQHandler
+                0x0000036c                CCM_AAR_IRQHandler
+                0x0000036c                WDT_IRQHandler
+                0x0000036c                SVC_Handler
+                0x0000036c                SWI5_EGU5_IRQHandler
+                0x0000036c                RNG_IRQHandler
+                0x0000036c                RTC2_IRQHandler
+                0x0000036c                PWM0_IRQHandler
+                0x0000036c                SWI3_EGU3_IRQHandler
+                0x0000036c                RTC1_IRQHandler
+                0x0000036c                SWI1_EGU1_IRQHandler
+                0x0000036c                SPIM2_SPIS2_SPI2_IRQHandler
+                0x0000036c                NFCT_IRQHandler
+                0x0000036c                BusFault_Handler
+                0x0000036c                MWU_IRQHandler
+                0x0000036c                MemoryManagement_Handler
+                0x0000036c                TIMER2_IRQHandler
+ .text.SystemInit
+                0x00000370        0x4 build/serialtest_swapped/startup_gcc_nrf52833.o
+                0x00000370                SystemInit
+ .text.Reset_Handler
+                0x00000374       0x60 build/serialtest_swapped/startup_gcc_nrf52833.o
+                0x00000374                Reset_Handler
+ .text          0x000003d4      0x254 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                0x000003d4                __aeabi_dmul
+                0x000003d4                __muldf3
+ .text          0x00000628      0x378 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x00000628                __aeabi_drsub
+                0x00000630                __subdf3
+                0x00000630                __aeabi_dsub
+                0x00000634                __aeabi_dadd
+                0x00000634                __adddf3
+                0x000008ac                __aeabi_ui2d
+                0x000008ac                __floatunsidf
+                0x000008cc                __floatsidf
+                0x000008cc                __aeabi_i2d
+                0x000008f0                __extendsfdf2
+                0x000008f0                __aeabi_f2d
+                0x00000934                __aeabi_ul2d
+                0x00000934                __floatundidf
+                0x00000944                __aeabi_l2d
+                0x00000944                __floatdidf
+ .text          0x000009a0       0x50 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                0x000009a0                __fixdfsi
+                0x000009a0                __aeabi_d2iz
+ .text          0x000009f0       0xa0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                0x000009f0                __aeabi_d2f
+                0x000009f0                __truncdfsf2
+ *(.rodata*)
+ .rodata.main.str1.4
+                0x00000a90       0x2b build/serialtest_swapped/serial_test.o
+ *(.init)
+ *(.fini)
+                0x00000abc                        . = ALIGN (0x4)
+ *fill*         0x00000abb        0x1 
+
+.glue_7         0x00000abc        0x0
+ .glue_7        0x00000abc        0x0 linker stubs
+
+.glue_7t        0x00000abc        0x0
+ .glue_7t       0x00000abc        0x0 linker stubs
+
+.vfp11_veneer   0x00000abc        0x0
+ .vfp11_veneer  0x00000abc        0x0 linker stubs
+
+.v4_bx          0x00000abc        0x0
+ .v4_bx         0x00000abc        0x0 linker stubs
+
+.iplt           0x00000abc        0x0
+ .iplt          0x00000abc        0x0 build/serialtest_swapped/serial_test.o
+
+.rel.dyn        0x00000abc        0x0
+ .rel.iplt      0x00000abc        0x0 build/serialtest_swapped/serial_test.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000abc        0x0
+                0x00000abc                        __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000abc                        __exidx_end = .
+                0x00000abc                        . = ALIGN (0x4)
+                0x00000abc                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x00000abc
+                0x20000000                        _sdata = .
+ *(.data*)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x00000abc
+ .igot.plt      0x20000000        0x0 build/serialtest_swapped/serial_test.o
+
+.bss            0x20000000        0x0 load address 0x00000abc
+                0x20000000                        _sbss = .
+ *(.bss*)
+ *(COMMON)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _ebss = .
+
+.heap_stack     0x20000000     0x1800 load address 0x00000abc
+                0x20000000                        . = ALIGN (0x8)
+                0x20000800                        . = (. + 0x800)
+ *fill*         0x20000000      0x800 
+                0x20001800                        . = (. + 0x1000)
+ *fill*         0x20000800     0x1000 
+                0x20001800                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.note*)
+ *(.comment*)
+OUTPUT(serialtest_swapped.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 build/serialtest_swapped/serial_test.o
+ .ARM.attributes
+                0x00000034       0x34 build/serialtest_swapped/uart.o
+ .ARM.attributes
+                0x00000068       0x34 build/serialtest_swapped/printf.o
+ .ARM.attributes
+                0x0000009c       0x34 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .ARM.attributes
+                0x000000d0       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x000000f2       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000114       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000136       0x22 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+.debug_info     0x00000000      0xeca
+ .debug_info    0x00000000      0x1ef build/serialtest_swapped/serial_test.o
+ .debug_info    0x000001ef      0x4bf build/serialtest_swapped/uart.o
+ .debug_info    0x000006ae      0x6a2 build/serialtest_swapped/printf.o
+ .debug_info    0x00000d50      0x17a build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_abbrev   0x00000000      0x68b
+ .debug_abbrev  0x00000000      0x187 build/serialtest_swapped/serial_test.o
+ .debug_abbrev  0x00000187      0x1d3 build/serialtest_swapped/uart.o
+ .debug_abbrev  0x0000035a      0x234 build/serialtest_swapped/printf.o
+ .debug_abbrev  0x0000058e       0xfd build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_loclists
+                0x00000000      0x451
+ .debug_loclists
+                0x00000000       0x17 build/serialtest_swapped/serial_test.o
+ .debug_loclists
+                0x00000017       0x8f build/serialtest_swapped/uart.o
+ .debug_loclists
+                0x000000a6      0x365 build/serialtest_swapped/printf.o
+ .debug_loclists
+                0x0000040b       0x46 build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_aranges  0x00000000       0xd8
+ .debug_aranges
+                0x00000000       0x38 build/serialtest_swapped/serial_test.o
+ .debug_aranges
+                0x00000038       0x40 build/serialtest_swapped/uart.o
+ .debug_aranges
+                0x00000078       0x30 build/serialtest_swapped/printf.o
+ .debug_aranges
+                0x000000a8       0x30 build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_rnglists
+                0x00000000      0x11c
+ .debug_rnglists
+                0x00000000       0x25 build/serialtest_swapped/serial_test.o
+ .debug_rnglists
+                0x00000025       0x37 build/serialtest_swapped/uart.o
+ .debug_rnglists
+                0x0000005c       0xa1 build/serialtest_swapped/printf.o
+ .debug_rnglists
+                0x000000fd       0x1f build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_macro    0x00000000    0x12010
+ .debug_macro   0x00000000       0x80 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000080      0xaf6 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000b76      0x172 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000ce8       0x22 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000d0a       0x8e build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000d98       0x51 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000de9      0x103 build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000eec       0x6a build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00000f56      0x1df build/serialtest_swapped/serial_test.o
+ .debug_macro   0x00001135       0x76 build/serialtest_swapped/uart.o
+ .debug_macro   0x000011ab      0x447 build/serialtest_swapped/uart.o
+ .debug_macro   0x000015f2    0x108e0 build/serialtest_swapped/uart.o
+ .debug_macro   0x00011ed2       0x76 build/serialtest_swapped/printf.o
+ .debug_macro   0x00011f48       0x5f build/serialtest_swapped/printf.o
+ .debug_macro   0x00011fa7       0x69 build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_line     0x00000000      0xd89
+ .debug_line    0x00000000      0x291 build/serialtest_swapped/serial_test.o
+ .debug_line    0x00000291      0x349 build/serialtest_swapped/uart.o
+ .debug_line    0x000005da      0x548 build/serialtest_swapped/printf.o
+ .debug_line    0x00000b22      0x267 build/serialtest_swapped/startup_gcc_nrf52833.o
+
+.debug_str      0x00000000    0x6903b
+ .debug_str     0x00000000    0x6903b build/serialtest_swapped/serial_test.o
+                               0x40a1 (size before relaxing)
+ .debug_str     0x0006903b        0x0 build/serialtest_swapped/uart.o
+                              0x6980a (size before relaxing)
+ .debug_str     0x0006903b        0x0 build/serialtest_swapped/printf.o
+                               0x403b (size before relaxing)
+ .debug_str     0x0006903b        0x0 build/serialtest_swapped/startup_gcc_nrf52833.o
+                               0x3ea0 (size before relaxing)
+
+.debug_frame    0x00000000      0x2cc
+ .debug_frame   0x00000000       0x58 build/serialtest_swapped/serial_test.o
+ .debug_frame   0x00000058       0x68 build/serialtest_swapped/uart.o
+ .debug_frame   0x000000c0       0xa0 build/serialtest_swapped/printf.o
+ .debug_frame   0x00000160       0x48 build/serialtest_swapped/startup_gcc_nrf52833.o
+ .debug_frame   0x000001a8       0x30 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x000001d8       0xac /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000284       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x000002a8       0x24 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+
+.debug_line_str
+                0x00000000       0xd7
+ .debug_line_str
+                0x00000000       0xd7 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                                 0xd7 (size before relaxing)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixdfsi.o)
+                                 0xd7 (size before relaxing)
+ .debug_line_str
+                0x000000d7        0x0 /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_truncdfsf2.o)
+                                 0xd7 (size before relaxing)
